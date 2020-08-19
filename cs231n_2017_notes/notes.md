@@ -11,8 +11,6 @@ Lecture Notes
 [Lecture06](https://www.notion.so/bluecandle/CS231n-2017-lecture6-a91ea7e3cd754888b91b8cdb27d30fc5)
 
 [Lecture07](https://www.notion.so/bluecandle/CS231n-2017-lecture7-d3f41315e5444b179a407389648e0eba)
-<<<<<<< HEAD
 
 [Lecture09](https://www.notion.so/bluecandle/CS231n-2017-lecture9-1e615e9e098942ce852493e1e400a96e)
-=======
->>>>>>> 62d86a6df9456f9c40dfa48a636444ce9351739e
+

@@ -14,3 +14,4 @@ Lecture Notes
 
 [Lecture09](https://www.notion.so/bluecandle/CS231n-2017-lecture9-1e615e9e098942ce852493e1e400a96e)
 
+[Lecture10](https://www.notion.so/bluecandle/CS231n-2017-lecture10-2a2dd09971224c63bceb6b5d5847ee16)

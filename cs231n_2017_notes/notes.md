@@ -19,3 +19,5 @@ Lecture Notes
 [Lecture11_Detection and Segmentation](https://www.notion.so/bluecandle/CS231n-2017-lecture11-_-Detection-and-Segmentation-932114dfcb6d46d68b38129f209e2bd8)
 
 [Lecture12_Visualizing and Understanding](https://www.notion.so/bluecandle/CS231n-2017-lecture12-_-Visualizing-and-Understanding-2dbac4c4a89f404295a8d0259568870a)
+
+[Lecture13 _ Generative Models](https://www.notion.so/bluecandle/CS231n-2017-lecture13-_-Generative-Models-27e31c3ac9fe4432abaf27947d4cf410)
